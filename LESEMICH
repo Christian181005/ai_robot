@@ -8,3 +8,10 @@ source meinenv/bin/activate
 paper3 funktioniert gut.
 
 Alle anderen Dateien sind entweder alte oder nicht mehr benötigte Programme.
+
+
+Servo Motor Pinout
+Servo --> RPI
+5V --> 5V
+GND --> GND
+DATA --> GPIO18 oder GPIO12 siehe Pinauswahl im Code
